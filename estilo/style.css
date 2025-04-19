@@ -1,10 +1,14 @@
+body{
+    background-color: #1b80e6;
+}
+
 header{
-    background-color: #248030;
+    background-color: #6d62e6;
     border-radius: 9px;
-    color: #eaeaea;
+    color: #b11a6d;
 }
 
 main{
-    background-color:  #ffff8c;
+    background-color:  #19c3c0;
     border-radius: 5px;
 }
